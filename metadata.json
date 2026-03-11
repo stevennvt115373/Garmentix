@@ -1,0 +1,5 @@
+{
+  "name": "Garment Pricing Calculator",
+  "description": "A tool for garment sales teams to calculate product pricing automatically based on customer requirements.",
+  "requestFramePermissions": []
+}
